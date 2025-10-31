@@ -11,7 +11,6 @@
 
 This repository contains my solutions to the HDIC IIT Madras assignment. It includes required datasets, images, the question paper, and a iit.ipynb file with answers.
 
----
 
 ## Question 1 – Image Enhancement via Retinex Concept
 
@@ -33,7 +32,6 @@ This part implements a sequence-to-sequence model to transliterate text from Eng
 
 Imagine a student practicing writing words in another language. After enough examples, they can write new words on their own — that’s what the model does here.
 
----
 
 ## Notebook
 
@@ -43,8 +41,3 @@ All the code for the above questions is in the file:
 iit.ipynb
 ```
 
----
-
-## Note
-
-This assignment was completed for HDIC, IIT Madras. I have uploaded only the files required for evaluation.
