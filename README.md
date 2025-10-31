@@ -2,10 +2,10 @@
 
 ## Repository Structure
 
-* **images/** - Contains reference images used in the assignment
-* **Aksharantar_sampled/** - Contains the test dataset provided
-* **QuestionPaper.pdf** - Original assignment questions
-* **IIT.ipynb** - Jupyter Notebook with solutions to all three questions
+* **Images/** - Contains reference images used in the assignment
+* **aksharantar_sampled/** - Contains the test dataset provided
+* **AssignmentQuestion.pdf** - Original assignment questions
+* **iit.ipynb** - Jupyter Notebook with solutions to all three questions
 
 ## Overview
 
